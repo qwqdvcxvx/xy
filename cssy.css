@@ -1,0 +1,94 @@
+*{
+    margin: auto;
+}
+body {
+    text-align: center;
+    background-color: #d5c84b;
+}
+a{
+    text-decoration: none;
+    color: #000000;
+}
+#d{
+    width: 550px;
+    height: 350px;
+    margin-top: 130px;
+    background-color: #FFFFFF;
+    border: #FFFFFF 1px;
+    border-radius: 5px;
+}
+.d1{
+    width: 550px;
+    height: 50px;
+    border-bottom: aquamarine 1px solid;
+}
+.d1 ul{
+
+}
+.d1 ul li{
+    display: inline;
+    float: left;
+    font-size: 20px;
+    padding: 0 30px;
+    margin-top: 17px;
+    margin-left: -30px;
+}
+.d1 ul li a{
+    font-size: 20px;
+    color: #055323;
+}
+.d1 ul li a:focus{
+    font-weight: bolder;
+}
+.d2{
+    width: 430px;
+    height: 120px;
+    float: left;
+}
+.d2 .d21{
+    width: 360px;
+    height: 40px;
+    margin-top: 10px;
+    border: 0;
+    border-bottom: rgb(28, 101, 196) 1px solid;
+    border-radius: 4px;
+    outline: none;
+}
+.d3{
+    width: 119px;
+    height: 300px;
+    float: right;
+}
+.d3 .d31{
+    width: 119px;
+    height: 260px;
+    margin-top: 20px;
+    border-left: rgb(116, 40, 231) 1px solid;
+}
+.d4{
+    width: 430px;
+    height: 30px;
+    float: left;
+}
+.d41{
+    float: right;
+    margin-right: 20px;
+}
+.d5{
+    width: 430px;
+    height: 150px;
+    float: left;
+}
+#d51{
+    width: 350px;
+    height: 40px;
+    background-color: #e76f6f;
+    border-radius: 25px;
+    border: none;
+    font-size: 16px;
+    color: white;
+    cursor: pointer;
+}
+#d51:hover{
+    background: #ae6386;
+}

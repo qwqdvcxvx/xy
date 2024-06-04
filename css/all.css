@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+ul,li,h1,h2,h3,p{ padding:0; margin:0; list-style:none}
+a{ text-decoration:none; color:#333;}
+html{ background:url(../images/bg3.jpg)}
+body{ max-width:1920px; min-width:1000px; margin:0 auto; line-height:21px}
+.center{ width:1000px; margin:0 auto}
+.banner img{ display:block}
+.clear{ clear:both}
+.menu li{ list-style:none}
+.logo{ position:absolute; top:50px; width:250px; height:100px; margin-left:40px}
+.banner{ position:relative;}
+.fl{ float:left}
+.menu{ background:#c7ca1f;width:100%; text-align:center; float:left;}
+.menu li a{ font-weight:bold; color:rgb(27, 16, 16); text-decoration:none}
+.menu li { font-size:18px; font-weight:bold; float:left; margin:0px; padding:20px 20px ; width:160px}
+.menu li.on a,.menu li:hover a{ color:#FFCC99}
+.right{ float:right; width:660px; padding:20px}
+.left{ min-height:300px; float:left; width:630px; padding:10px}
+.content { padding-bottom:20px;font-size:14px;}
+.ad { height:220px}
+.ad img{ float:left; margin-right:30px }
+.end{ clear:both; background:#cf9362; color:rgb(19, 12, 12); padding:30px 0; text-align:center;}
+.produce img{  margin:0 20px 20px 0}
+.produce { line-height:30px}
+.pad{ padding:20px; display:block}
+.pics p{ margin:1px; text-align:center}
+
+.imglist{ width:840px; margin:0 auto}
+.imglist li{ float:left; width:400px; margin:10px ; text-align:center}
+.scrollleft{ margin:0 30px}
+.scrollleft li{ float:left}
+.news li{ padding:5px;}
+
+.title{ text-align:center; color:#F00; padding:10px}
+
+.tu  div{ width:48%; line-height:24px; text-align:center; margin:1%;float:left}
+.tu strong{ color:#000; padding:20px 0; display:block; font-size:16px;}
+.tu div img{ width:100%; height:240px} 
+.msg>div{ padding:10px}
+
+.bod{ border:#999 solid 1px; margin:10px 0}
+.more{ background:#c8c855; color:rgb(13, 8, 8); display:inline-block; padding:5px 15px}
+.pj>div{ float:left; width:46%; margin:2%;}
+.dl{ margin:0 auto; width:450px; padding:30px 0; padding-top:0}
+.dl span{ display:block;  padding-right:15px; font-size:18px; padding:5px 0}
+.dl div{ margin:10px 0}
+.dl div input{ padding:10px 0; width:100%}
+#submit2{ background:#000; border:none; color:rgb(0, 0, 0); width:100%}
+.tc{ text-align:center}
+.dl2{ margin:0 auto; background:#b8b7b2; padding:30px 0}
+
+.dl2 span{ display:block; text-align:left; padding-right:15px;}
+.dl2 div{ margin:10px 0}
+.bar a{ color:#000; float:right}
+.bar{margin:20px; margin-bottom:5px; text-align:center; clear:both; color:#fff; font-weight:bold; padding:14px 25px}
+.bar h3{ background:url(../images/c.png) no-repeat center ; background-size:auto 100%; padding:22px 0; font-size:20px; }
+.sc{ width:600px; margin:0 auto; text-align:center; line-height:30px}.sc img{ margin-top:30px}
+.sc strong{ font-size:18px; color:#CC0000; display:block; padding:15px 0}
